@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mithra0612
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning HTML and CSS.
+- Hi, I'm Madhumithra, first year undergraduate student from the department of Computer Science and Engineering.
+- I am keen on learning and working on fullstack projects.
+- Reach out to me via linkedin - https://www.linkedin.com/in/madhumithra-m-860397293/ if you wanna work on some projects with me :)
+  
 
 
 <!---
