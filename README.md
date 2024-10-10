@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Madhumithra, sophmore computer science student at Bannari Amman Institute of Technology with a strong passion for full-stack development. I am working on Data Structure and Algorithms.I am open for collaboration on projects, and appreciate constructive criticism.If you're looking to connect, share insightful conversations, or discuss anything tech-related, feel free to reach out via LinkedIn or email. Let’s grow together!
+Hi there! I’m Madhumithra, a sophomore Computer Science student at Bannari Amman Institute of Technology, with a strong passion for full-stack development. Currently, I'm diving deep into Data Structures and Algorithms, honing my problem-solving skills.
+
+I believe in the power of collaboration and am always open to working on exciting projects. Constructive criticism is something I truly appreciate, as it helps me grow and improve.
+
+If you're interested in connecting, sharing insights, or discussing anything tech-related, feel free to reach out via LinkedIn or email. Let’s grow together in this ever-evolving tech landscape!
 
 
 ## 🌐 Socials:
