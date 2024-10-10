@@ -15,7 +15,7 @@ I'm Madhumithra, sophmore computer science student at Bannari Amman Institute of
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mithra0612&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
