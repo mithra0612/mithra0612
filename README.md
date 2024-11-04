@@ -17,7 +17,10 @@ I’m currently working on:<br>🛠️ Full-stack development projects and pract
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mithra0612&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
+### 📈LeetCode Statistics
+
+![LeetCode Stats](https://leetcode.card.workers.dev/mithra_612?theme=auto&font=baloo&extension=activity)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mithra0612&icon=5&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
