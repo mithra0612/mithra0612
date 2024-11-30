@@ -16,6 +16,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mithra0612&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
+### LeetCode Statistics
+![LeetCode Stats](https://leetcode.card.workers.dev/mithra_612?theme=auto&font=patrick_hand&extension=null)
+
+---
 [![](https://visitcount.itsvg.in/api?id=mithra0612&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
