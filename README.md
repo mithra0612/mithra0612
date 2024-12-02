@@ -16,10 +16,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mithra0612&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-### LeetCode Statistics
+### LeetCode Info 
 ![LeetCode Stats](https://leetcode.card.workers.dev/mithra_612?theme=auto&font=patrick_hand&extension=null)
+<p align="left">  
+  <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-days-of-coding" height="150" width="150" /></a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mithra0612&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
