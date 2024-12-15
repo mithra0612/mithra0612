@@ -20,6 +20,7 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/mithra_612?theme=auto&font=patrick_hand&extension=null)
 <p align="left">  
   <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-days-of-coding" height="150" width="150" /></a>
+  <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="50-days-of-coding" height="150" width="150" /></a>
 </p>
 
 ---
