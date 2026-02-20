@@ -40,4 +40,6 @@
   <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="50-days-of-coding" height="150" width="150" /></a>
   <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50-days-of-coding" height="150" width="150" /></a>
   <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="50-days-of-coding" height="150" width="150" /></a>
+  <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="50-days-of-coding" height="150" width="150" /></a>
+  <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="50-days-of-coding" height="150" width="150" /></a>
 </p>
