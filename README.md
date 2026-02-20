@@ -35,7 +35,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # LeetCode Info 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mithra_612?theme=dark&font=Mali&ext=heatmap)<p align="left">  
+![LeetCode Stats](https://leetcard.jacoblin.cool/mithra_612?theme=dark&font=Graduate&ext=contest)<p align="left">  
   <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-days-of-coding" height="150" width="150" /></a>
   <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="50-days-of-coding" height="150" width="150" /></a>
   <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50-days-of-coding" height="150" width="150" /></a>
