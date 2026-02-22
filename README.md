@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 <h2>Hi, I’m Madhumithra — a 3rd-Year Computer Science and Engineering Student</h2>
 </div>
 
-<div align="center">
+<div align="left">
 <h2>Tech Stack</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60"/>
@@ -27,12 +27,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60"/> -->
-
 </div>
 
-<div align="center">
+<div align="left">
 <h2>Socials</h2>
 
 <a href="https://www.linkedin.com/in/mithra0612/" target="_blank">
@@ -46,32 +43,31 @@
 </a>
 </div>
 
-<div align="center">
+<div align="left">
 <h2>GitHub Snake</h2>
 <img src="https://raw.githubusercontent.com/mithra0612/mithra0612/main/github-user-contribution.svg"/>
 </div>
 
-<div align="center">
+<div align="left">
 <h2>GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mithra0612&theme=react&hide_border=true&include_all_commits=true&count_private=false"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=mithra0612&theme=react&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithra0612&theme=react&hide_border=true&layout=compact"/>
-
 </div>
 
-<div align="center">
+<div align="left">
 <h2>LeetCode Info</h2>
 
-<img src="https://leetcard.jacoblin.cool/mithra_612?theme=dark&font=Graduate&ext=contest"/>
-
+<img 
+  src="https://leetcard.jacoblin.cool/mithra_612?theme=dark&font=Graduate&ext=contest"
+  height="300"
+  width="400"
+/>
 <p>
-<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="150" width="150"/></a>
-<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="150" width="150"/></a>
-<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="150" width="150"/></a>
-<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="150" width="150"/></a>
-<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/200.gif" height="150" width="150"/></a>
-<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="150" width="150"/></a>
+<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="85" width="85"/></a>
+<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="85" width="85"/></a>
+<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="85" width="85"/></a>
+<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="85" width="85"/></a>
+<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/200.gif" height="85" width="85"/></a>
+<a href="https://leetcode.com/u/mithra_612/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="85" width="85"/></a>
 </p>
-
 </div>
