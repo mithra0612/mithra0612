@@ -83,8 +83,8 @@
 </div>
 
 <div align="left">
-<h2>GitHub Snake</h2>
-<img src="https://raw.githubusercontent.com/mithra0612/mithra0612/main/github-user-contribution.svg"/>
+<h2>GitHub</h2>
+<img src="https://raw.githubusercontent.com/mithra0612/mithra0612/main/pacman-contributions.svg"/>
 </div>
 
 <div align="left">
