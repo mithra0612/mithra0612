@@ -89,8 +89,15 @@
 
 <div align="left">
 <h2>GitHub Stats</h2>
+<div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=mithra0612&theme=react&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mithra0612&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" height="150" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mithra0612&theme=highcontrast&hide_border=true" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithra0612&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" height="150" />
+
+</div>
 </div>
 
 <div align="left">
