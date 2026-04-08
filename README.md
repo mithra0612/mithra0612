@@ -117,7 +117,12 @@
     </tr>
   </table>
 </div>
+<h2>Achievements</h2>
 
+- 🏆 **Smart India Hackathon 2024** — Finalist (AICTE)  
+- 🥇 **Hack’IT 25** — Winner, Anna University CEG  
+- 💡 **Nexathon ’25** — Best Business Pitch Award  
+- 🚀 **TNWISE 2025** — Finalist
 <h2>Socials</h2>
 
 <p align="left">
