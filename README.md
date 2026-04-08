@@ -3,6 +3,8 @@
 </div>
 <div align="left">
   <h2>About Me</h2>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=SIH+Finalist;Upcoming+SWE+Intern+@+PayPal;Full+Stack+Developer;Building+Scalable+Web+Applications;Passionate+about+Problem+Solving" alt="Typing SVG" />
 <ul>
   <li>💻 Web Developer</li>
   <li>🚀 Building scalable web applications</li>
@@ -115,19 +117,28 @@
     </tr>
   </table>
 </div>
-<div align="left">
+
 <h2>Socials</h2>
 
-<a href="https://www.linkedin.com/in/mithra0612/" target="_blank">
-<img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="32"/>
-</a>
-<a href="mailto:mithramadhu005@gmail.com" target="_blank">
-<img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32"/>
-</a>
-<a href="https://www.hackerrank.com/profile/madhut24681" target="_blank">
-<img src="https://img.shields.io/static/v1?label=&message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="32"/>
-</a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mithra0612/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="32"/>
+  </a>
 
-</div>
+  <a href="mailto:mithramadhu005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/madhut24681" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="32"/>
+  </a>
+
+  <a href="https://madhumithra-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&logo=firefoxbrowser&color=111827&logoColor=white&style=for-the-badge" height="32"/>
+  </a>
+
+  <a href="https://youtube.com/@Adrift1658" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="32"/>
+  </a>
+</p></div>
 </div>
