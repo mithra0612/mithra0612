@@ -4,7 +4,7 @@
 <div align="left">
   <h2>About Me</h2>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=SIH+Finalist;Upcoming+SWE+Intern+@+PayPal;Full+Stack+Developer;Building+Scalable+Web+Applications;Passionate+about+Problem+Solving" alt="Typing SVG" />
+  <!---<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=SIH+Finalist;Upcoming+SWE+Intern+@+PayPal;Full+Stack+Developer;Building+Scalable+Web+Applications;Passionate+about+Problem+Solving" alt="Typing SVG" /> -->
 <ul>
   <li>💻 Web Developer</li>
   <li>🚀 Building scalable web applications</li>
